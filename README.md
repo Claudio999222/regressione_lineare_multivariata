@@ -1,0 +1,1 @@
+## Lavoro su DataSet vedremo le correlazoni con la features di interesse, calcolo dell offset dell'origine (intercetta), coefficenti angolari, errore medio assoluto, errore massimo assoluto, varianza, grafici di correlazioni tra predizioni e dati di train e con quale features otteniamo l'addestramento migliore per il nostro modello 
